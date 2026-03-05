@@ -16,10 +16,9 @@ https://www.figma.com/design/Dwpd0Pn50uNmtKbT2VNIZ0/Untitled?node-id=19-321&t=mD
 
 ## Wireframe Previews
 ## 1. Organizer Dashboard
-[Dashboard Preview](./wireframes/organizer-dash.png)
+[Dashboard Preview](./wireframes/dash.png)
 
 ### 2. Event Creation Form
-[Event Creation Preview](./wireframes/event-creation.png)
-
+[Event Creation Preview](./wireframes/create.png)
 ### 3. Mobile Ticket QR View
-[Mobile Ticket Preview](./wireframes/mobile-ticket.png)
+[Mobile Ticket Preview](./wireframes/ticket.png)
